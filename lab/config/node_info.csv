@@ -1,0 +1,10 @@
+﻿calc,controller,availability-zone,calc_ip,controller_ip
+0,0,nova:computer12:computer12,242,241
+1,0,nova:computer13:computer13,243,241
+2,0,nova:computer14:computer14,244,241
+3,1,nova:computer16:computer16,232,231
+4,1,nova:computer21:computer21,233,231
+5,1,nova:computer22:computer22,234,231
+6,2,nova:computer24:computer24,222,221
+7,2,nova:computer25:computer25,223,221
+8,2,nova:computer26:computer26,224,221
