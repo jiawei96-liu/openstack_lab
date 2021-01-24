@@ -1,0 +1,133 @@
+
+
+============2021-01-23 17:34:59===========
+
+Connecting to host 10.10.2.49, port 25004
+Reverse mode, remote host 10.10.2.49 is sending
+[  5] local 172.16.62.236 port 58582 connected to 10.10.2.49 port 25004
+[ ID] Interval           Transfer     Bandwidth
+[  5]   0.00-0.25   sec  2.00 MBytes  66.2 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  5]   0.00-0.25   sec  2.29 MBytes  75.8 Mbits/sec   11             sender
+[  5]   0.00-0.25   sec  2.13 MBytes  70.3 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 10.10.2.49, port 25000
+Reverse mode, remote host 10.10.2.49 is sending
+[  5] local 172.16.62.236 port 60620 connected to 10.10.2.49 port 25000
+[ ID] Interval           Transfer     Bandwidth
+[  5]   0.00-0.21   sec  2.00 MBytes  80.6 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  5]   0.00-0.21   sec  2.55 MBytes   103 Mbits/sec    0             sender
+[  5]   0.00-0.21   sec  2.13 MBytes  85.7 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 10.10.2.49, port 25001
+Reverse mode, remote host 10.10.2.49 is sending
+[  5] local 172.16.62.236 port 42924 connected to 10.10.2.49 port 25001
+[ ID] Interval           Transfer     Bandwidth
+[  5]   0.00-0.21   sec  2.00 MBytes  79.8 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  5]   0.00-0.21   sec  2.56 MBytes   102 Mbits/sec    0             sender
+[  5]   0.00-0.21   sec  2.13 MBytes  84.8 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 10.10.2.49, port 25002
+Reverse mode, remote host 10.10.2.49 is sending
+[  5] local 172.16.62.236 port 34424 connected to 10.10.2.49 port 25002
+[ ID] Interval           Transfer     Bandwidth
+[  5]   0.00-0.23   sec  2.00 MBytes  74.5 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  5]   0.00-0.23   sec  2.56 MBytes  95.3 Mbits/sec    2             sender
+[  5]   0.00-0.23   sec  2.13 MBytes  79.2 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 10.10.2.49, port 25003
+Reverse mode, remote host 10.10.2.49 is sending
+[  5] local 172.16.62.236 port 49396 connected to 10.10.2.49 port 25003
+[ ID] Interval           Transfer     Bandwidth
+[  5]   0.00-0.21   sec  2.00 MBytes  81.8 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  5]   0.00-0.21   sec  2.43 MBytes  99.4 Mbits/sec    0             sender
+[  5]   0.00-0.21   sec  2.13 MBytes  86.9 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 10.10.2.49, port 25004
+Reverse mode, remote host 10.10.2.49 is sending
+[  5] local 172.16.62.236 port 58684 connected to 10.10.2.49 port 25004
+[ ID] Interval           Transfer     Bandwidth
+[  5]   0.00-0.20   sec  2.00 MBytes  84.5 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  5]   0.00-0.20   sec  2.41 MBytes   102 Mbits/sec    2             sender
+[  5]   0.00-0.20   sec  2.13 MBytes  89.8 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 10.10.2.49, port 25000
+Reverse mode, remote host 10.10.2.49 is sending
+[  5] local 172.16.62.236 port 60734 connected to 10.10.2.49 port 25000
+[ ID] Interval           Transfer     Bandwidth
+[  5]   0.00-0.20   sec  2.00 MBytes  83.4 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  5]   0.00-0.20   sec  2.43 MBytes   101 Mbits/sec    0             sender
+[  5]   0.00-0.20   sec  2.25 MBytes  93.8 Mbits/sec                  receiver
+
+iperf Done.
+
+
+============2021-01-23 17:35:09===========
+
+
+
+============2021-01-23 17:35:19===========
+
+
+
+============2021-01-23 17:35:29===========
+
+
+
+============2021-01-23 17:35:39===========
+
+
+
+============2021-01-23 17:35:49===========
+
+
+
+============2021-01-23 17:35:59===========
+
+
+
+============2021-01-23 17:36:09===========
+
+
+
+============2021-01-23 17:36:19===========
+
+
+
+============2021-01-23 17:36:29===========
+
+
+
+============2021-01-23 17:36:40===========
+
+
+
+============2021-01-23 17:36:50===========
+
+
+
+============2021-01-23 17:37:00===========
+
+
+
+============2021-01-23 17:37:10===========
+

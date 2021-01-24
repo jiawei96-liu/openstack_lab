@@ -1,0 +1,93 @@
+PING 10.10.2.47 (10.10.2.47) 56(84) bytes of data.
+64 bytes from 10.10.2.47: icmp_seq=1 ttl=63 time=1.20 ms
+
+
+============2021-01-22 12:44:25===========
+
+64 bytes from 10.10.2.47: icmp_seq=2 ttl=63 time=2.01 ms
+64 bytes from 10.10.2.47: icmp_seq=3 ttl=63 time=2.22 ms
+64 bytes from 10.10.2.47: icmp_seq=4 ttl=63 time=1.86 ms
+64 bytes from 10.10.2.47: icmp_seq=5 ttl=63 time=1.79 ms
+64 bytes from 10.10.2.47: icmp_seq=6 ttl=63 time=2.10 ms
+64 bytes from 10.10.2.47: icmp_seq=7 ttl=63 time=1.29 ms
+64 bytes from 10.10.2.47: icmp_seq=8 ttl=63 time=1.37 ms
+64 bytes from 10.10.2.47: icmp_seq=9 ttl=63 time=2.29 ms
+64 bytes from 10.10.2.47: icmp_seq=10 ttl=63 time=3.34 ms
+64 bytes from 10.10.2.47: icmp_seq=11 ttl=63 time=3.74 ms
+
+
+============2021-01-22 12:44:35===========
+
+64 bytes from 10.10.2.47: icmp_seq=12 ttl=63 time=2.88 ms
+64 bytes from 10.10.2.47: icmp_seq=13 ttl=63 time=3.45 ms
+64 bytes from 10.10.2.47: icmp_seq=14 ttl=63 time=3.59 ms
+64 bytes from 10.10.2.47: icmp_seq=15 ttl=63 time=3.58 ms
+64 bytes from 10.10.2.47: icmp_seq=16 ttl=63 time=3.61 ms
+64 bytes from 10.10.2.47: icmp_seq=17 ttl=63 time=4.11 ms
+64 bytes from 10.10.2.47: icmp_seq=18 ttl=63 time=4.01 ms
+64 bytes from 10.10.2.47: icmp_seq=19 ttl=63 time=3.75 ms
+64 bytes from 10.10.2.47: icmp_seq=20 ttl=63 time=3.99 ms
+64 bytes from 10.10.2.47: icmp_seq=21 ttl=63 time=3.87 ms
+
+
+============2021-01-22 12:44:45===========
+
+64 bytes from 10.10.2.47: icmp_seq=22 ttl=63 time=3.93 ms
+64 bytes from 10.10.2.47: icmp_seq=23 ttl=63 time=4.51 ms
+64 bytes from 10.10.2.47: icmp_seq=24 ttl=63 time=4.61 ms
+64 bytes from 10.10.2.47: icmp_seq=25 ttl=63 time=5.24 ms
+64 bytes from 10.10.2.47: icmp_seq=26 ttl=63 time=4.01 ms
+64 bytes from 10.10.2.47: icmp_seq=27 ttl=63 time=3.90 ms
+64 bytes from 10.10.2.47: icmp_seq=28 ttl=63 time=3.93 ms
+64 bytes from 10.10.2.47: icmp_seq=29 ttl=63 time=3.41 ms
+64 bytes from 10.10.2.47: icmp_seq=30 ttl=63 time=7.79 ms
+64 bytes from 10.10.2.47: icmp_seq=31 ttl=63 time=3.19 ms
+
+
+============2021-01-22 12:44:55===========
+
+64 bytes from 10.10.2.47: icmp_seq=32 ttl=63 time=4.39 ms
+64 bytes from 10.10.2.47: icmp_seq=33 ttl=63 time=4.57 ms
+64 bytes from 10.10.2.47: icmp_seq=34 ttl=63 time=4.68 ms
+64 bytes from 10.10.2.47: icmp_seq=35 ttl=63 time=4.12 ms
+64 bytes from 10.10.2.47: icmp_seq=36 ttl=63 time=4.37 ms
+64 bytes from 10.10.2.47: icmp_seq=37 ttl=63 time=4.53 ms
+64 bytes from 10.10.2.47: icmp_seq=38 ttl=63 time=3.95 ms
+64 bytes from 10.10.2.47: icmp_seq=39 ttl=63 time=3.01 ms
+64 bytes from 10.10.2.47: icmp_seq=40 ttl=63 time=4.36 ms
+64 bytes from 10.10.2.47: icmp_seq=41 ttl=63 time=3.71 ms
+
+
+============2021-01-22 12:45:05===========
+
+64 bytes from 10.10.2.47: icmp_seq=42 ttl=63 time=3.59 ms
+64 bytes from 10.10.2.47: icmp_seq=43 ttl=63 time=2.22 ms
+64 bytes from 10.10.2.47: icmp_seq=44 ttl=63 time=3.27 ms
+64 bytes from 10.10.2.47: icmp_seq=45 ttl=63 time=3.85 ms
+64 bytes from 10.10.2.47: icmp_seq=46 ttl=63 time=4.75 ms
+64 bytes from 10.10.2.47: icmp_seq=47 ttl=63 time=4.09 ms
+64 bytes from 10.10.2.47: icmp_seq=48 ttl=63 time=3.72 ms
+64 bytes from 10.10.2.47: icmp_seq=49 ttl=63 time=3.95 ms
+64 bytes from 10.10.2.47: icmp_seq=50 ttl=63 time=3.14 ms
+64 bytes from 10.10.2.47: icmp_seq=51 ttl=63 time=4.08 ms
+
+
+============2021-01-22 12:45:15===========
+
+64 bytes from 10.10.2.47: icmp_seq=52 ttl=63 time=4.36 ms
+64 bytes from 10.10.2.47: icmp_seq=53 ttl=63 time=3.10 ms
+64 bytes from 10.10.2.47: icmp_seq=54 ttl=63 time=3.05 ms
+64 bytes from 10.10.2.47: icmp_seq=55 ttl=63 time=2.72 ms
+64 bytes from 10.10.2.47: icmp_seq=56 ttl=63 time=3.42 ms
+64 bytes from 10.10.2.47: icmp_seq=57 ttl=63 time=3.16 ms
+64 bytes from 10.10.2.47: icmp_seq=58 ttl=63 time=2.93 ms
+64 bytes from 10.10.2.47: icmp_seq=59 ttl=63 time=2.68 ms
+64 bytes from 10.10.2.47: icmp_seq=60 ttl=63 time=4.20 ms
+
+--- 10.10.2.47 ping statistics ---
+60 packets transmitted, 60 received, 0% packet loss, time 59070ms
+rtt min/avg/max/mdev = 1.200/3.546/7.796/1.067 ms
+
+
+============2021-01-22 12:45:26===========
+

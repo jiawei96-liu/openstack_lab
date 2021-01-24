@@ -1,0 +1,275 @@
+
+
+============2021-01-22 23:27:32===========
+
+Connecting to host 10.10.1.4, port 25004
+Reverse mode, remote host 10.10.1.4 is sending
+[  5] local 172.16.62.12 port 57336 connected to 10.10.1.4 port 25004
+[ ID] Interval           Transfer     Bandwidth
+[  5]   0.00-0.10   sec   104 KBytes  8.49 Mbits/sec                  
+[  5]   0.10-0.20   sec   609 KBytes  49.9 Mbits/sec                  
+[  5]   0.20-0.30   sec   702 KBytes  57.5 Mbits/sec                  
+[  5]   0.30-0.39   sec   635 KBytes  56.2 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  5]   0.00-0.39   sec  2.54 MBytes  54.4 Mbits/sec    0             sender
+[  5]   0.00-0.39   sec  2.13 MBytes  45.4 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 10.10.1.4, port 25000
+Reverse mode, remote host 10.10.1.4 is sending
+[  5] local 172.16.62.12 port 55690 connected to 10.10.1.4 port 25000
+[ ID] Interval           Transfer     Bandwidth
+[  5]   0.00-0.10   sec   104 KBytes  8.49 Mbits/sec                  
+[  5]   0.10-0.20   sec   855 KBytes  70.1 Mbits/sec                  
+[  5]   0.20-0.26   sec  1.07 MBytes   143 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  5]   0.00-0.26   sec  2.35 MBytes  75.2 Mbits/sec   10             sender
+[  5]   0.00-0.26   sec  2.13 MBytes  68.0 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 10.10.1.4, port 25001
+Reverse mode, remote host 10.10.1.4 is sending
+[  5] local 172.16.62.12 port 53536 connected to 10.10.1.4 port 25001
+[ ID] Interval           Transfer     Bandwidth
+[  5]   0.00-0.10   sec   104 KBytes  8.49 Mbits/sec                  
+[  5]   0.10-0.20   sec  1.45 MBytes   122 Mbits/sec                  
+[  5]   0.20-0.22   sec   457 KBytes   209 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  5]   0.00-0.22   sec  2.43 MBytes  93.5 Mbits/sec    5             sender
+[  5]   0.00-0.22   sec  2.13 MBytes  81.8 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 10.10.1.4, port 25002
+Reverse mode, remote host 10.10.1.4 is sending
+[  5] local 172.16.62.12 port 50624 connected to 10.10.1.4 port 25002
+[ ID] Interval           Transfer     Bandwidth
+[  5]   0.00-0.10   sec   104 KBytes  8.49 Mbits/sec                  
+[  5]   0.10-0.20   sec  1.47 MBytes   124 Mbits/sec                  
+[  5]   0.20-0.25   sec   436 KBytes  67.2 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  5]   0.00-0.25   sec  2.48 MBytes  82.1 Mbits/sec    7             sender
+[  5]   0.00-0.25   sec  2.13 MBytes  70.5 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 10.10.1.4, port 25003
+Reverse mode, remote host 10.10.1.4 is sending
+[  5] local 172.16.62.12 port 49982 connected to 10.10.1.4 port 25003
+[ ID] Interval           Transfer     Bandwidth
+[  5]   0.00-0.10   sec   104 KBytes  8.49 Mbits/sec                  
+[  5]   0.10-0.20   sec  1.63 MBytes   137 Mbits/sec                  
+[  5]   0.20-0.30   sec  1.27 MBytes   106 Mbits/sec                  
+[  5]   0.30-0.40   sec  1.22 MBytes   102 Mbits/sec                  
+[  5]   0.40-0.50   sec   856 KBytes  70.1 Mbits/sec                  
+[  5]   0.50-0.60   sec  1.38 MBytes   115 Mbits/sec                  
+[  5]   0.60-0.70   sec  1.00 MBytes  83.9 Mbits/sec                  
+[  5]   0.70-0.80   sec  1.12 MBytes  94.1 Mbits/sec                  
+[  5]   0.80-0.90   sec  1.05 MBytes  88.2 Mbits/sec                  
+[  5]   0.90-1.00   sec  1.03 MBytes  86.7 Mbits/sec                  
+[  5]   1.00-1.10   sec  1.09 MBytes  91.8 Mbits/sec                  
+[  5]   1.10-1.20   sec  1.04 MBytes  87.6 Mbits/sec                  
+[  5]   1.20-1.30   sec  1.01 MBytes  85.1 Mbits/sec                  
+[  5]   1.30-1.40   sec  1.07 MBytes  89.9 Mbits/sec                  
+[  5]   1.40-1.50   sec  1.04 MBytes  86.9 Mbits/sec                  
+[  5]   1.50-1.60   sec  1.16 MBytes  97.1 Mbits/sec                  
+[  5]   1.60-1.70   sec  1.12 MBytes  94.3 Mbits/sec                  
+[  5]   1.70-1.80   sec  1.06 MBytes  89.2 Mbits/sec                  
+[  5]   1.80-1.90   sec  1.11 MBytes  93.2 Mbits/sec                  
+[  5]   1.90-2.00   sec  1.03 MBytes  86.5 Mbits/sec                  
+[  5]   2.00-2.10   sec  1.13 MBytes  94.9 Mbits/sec                  
+[  5]   2.10-2.20   sec  1.21 MBytes   101 Mbits/sec                  
+[  5]   2.20-2.30   sec  1.06 MBytes  89.1 Mbits/sec                  
+[  5]   2.30-2.40   sec   924 KBytes  75.7 Mbits/sec                  
+[  5]   2.40-2.50   sec  1.01 MBytes  84.4 Mbits/sec                  
+[  5]   2.50-2.60   sec  1.05 MBytes  88.4 Mbits/sec                  
+[  5]   2.60-2.70   sec  1.16 MBytes  97.2 Mbits/sec                  
+[  5]   2.70-2.80   sec   972 KBytes  79.6 Mbits/sec                  
+[  5]   2.80-2.90   sec  1.12 MBytes  94.3 Mbits/sec                  
+[  5]   2.90-3.00   sec  1002 KBytes  82.1 Mbits/sec                  
+[  5]   3.00-3.10   sec   982 KBytes  80.4 Mbits/sec                  
+[  5]   3.10-3.20   sec  1003 KBytes  82.2 Mbits/sec                  
+[  5]   3.20-3.30   sec  1.12 MBytes  93.9 Mbits/sec                  
+[  5]   3.30-3.40   sec  1.06 MBytes  88.8 Mbits/sec                  
+[  5]   3.40-3.50   sec  1.17 MBytes  97.8 Mbits/sec                  
+[  5]   3.50-3.60   sec  1.21 MBytes   102 Mbits/sec                  
+[  5]   3.60-3.70   sec  1.08 MBytes  90.5 Mbits/sec                  
+[  5]   3.70-3.80   sec  1.12 MBytes  93.8 Mbits/sec                  
+[  5]   3.80-3.90   sec  1.17 MBytes  98.5 Mbits/sec                  
+[  5]   3.90-4.00   sec  1.09 MBytes  91.5 Mbits/sec                  
+[  5]   4.00-4.10   sec  1.28 MBytes   108 Mbits/sec                  
+[  5]   4.10-4.20   sec  1.62 MBytes   136 Mbits/sec                  
+[  5]   4.20-4.30   sec  1.24 MBytes   104 Mbits/sec                  
+[  5]   4.30-4.40   sec  1.76 MBytes   148 Mbits/sec                  
+[  5]   4.40-4.45   sec  1.19 MBytes   207 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  5]   0.00-4.45   sec  50.6 MBytes  95.3 Mbits/sec   60             sender
+[  5]   0.00-4.45   sec  50.1 MBytes  94.5 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 10.10.1.4, port 25004
+Reverse mode, remote host 10.10.1.4 is sending
+[  5] local 172.16.62.12 port 57610 connected to 10.10.1.4 port 25004
+[ ID] Interval           Transfer     Bandwidth
+[  5]   0.00-0.10   sec   104 KBytes  8.49 Mbits/sec                  
+[  5]   0.10-0.20   sec  1.75 MBytes   147 Mbits/sec                  
+[  5]   0.20-0.30   sec   647 KBytes  53.0 Mbits/sec                  
+[  5]   0.30-0.40   sec  1.24 MBytes   104 Mbits/sec                  
+[  5]   0.40-0.50   sec  1.12 MBytes  94.4 Mbits/sec                  
+[  5]   0.50-0.60   sec  1.25 MBytes   105 Mbits/sec                  
+[  5]   0.60-0.70   sec  1.12 MBytes  94.4 Mbits/sec                  
+[  5]   0.70-0.80   sec  1.13 MBytes  95.1 Mbits/sec                  
+[  5]   0.80-0.90   sec  1.24 MBytes   104 Mbits/sec                  
+[  5]   0.90-1.00   sec  1.25 MBytes   105 Mbits/sec                  
+[  5]   1.00-1.10   sec  1.12 MBytes  94.4 Mbits/sec                  
+[  5]   1.10-1.20   sec  1.25 MBytes   105 Mbits/sec                  
+[  5]   1.20-1.30   sec  1.12 MBytes  94.4 Mbits/sec                  
+[  5]   1.30-1.40   sec  1.25 MBytes   105 Mbits/sec                  
+[  5]   1.40-1.50   sec  1.12 MBytes  94.4 Mbits/sec                  
+[  5]   1.50-1.60   sec  1.09 MBytes  91.7 Mbits/sec                  
+[  5]   1.60-1.70   sec  1.06 MBytes  89.1 Mbits/sec                  
+[  5]   1.70-1.80   sec  1.16 MBytes  97.2 Mbits/sec                  
+[  5]   1.80-1.90   sec  1.10 MBytes  92.5 Mbits/sec                  
+[  5]   1.90-2.00   sec  1.04 MBytes  86.9 Mbits/sec                  
+[  5]   2.00-2.10   sec  1.01 MBytes  84.8 Mbits/sec                  
+[  5]   2.10-2.20   sec  1.16 MBytes  97.5 Mbits/sec                  
+[  5]   2.20-2.30   sec  1.02 MBytes  85.8 Mbits/sec                  
+[  5]   2.30-2.40   sec  1.09 MBytes  91.5 Mbits/sec                  
+[  5]   2.40-2.50   sec  1.03 MBytes  86.4 Mbits/sec                  
+[  5]   2.50-2.60   sec   960 KBytes  78.6 Mbits/sec                  
+[  5]   2.60-2.70   sec   878 KBytes  71.9 Mbits/sec                  
+[  5]   2.70-2.80   sec   950 KBytes  77.9 Mbits/sec                  
+[  5]   2.80-2.90   sec   947 KBytes  77.6 Mbits/sec                  
+[  5]   2.90-3.00   sec   927 KBytes  75.9 Mbits/sec                  
+[  5]   3.00-3.10   sec   961 KBytes  78.7 Mbits/sec                  
+[  5]   3.10-3.20   sec  1024 KBytes  83.9 Mbits/sec                  
+[  5]   3.20-3.30   sec   789 KBytes  64.7 Mbits/sec                  
+[  5]   3.30-3.40   sec  1010 KBytes  82.7 Mbits/sec                  
+[  5]   3.40-3.50   sec   941 KBytes  77.1 Mbits/sec                  
+[  5]   3.50-3.60   sec   954 KBytes  78.2 Mbits/sec                  
+[  5]   3.60-3.70   sec   942 KBytes  77.2 Mbits/sec                  
+[  5]   3.70-3.80   sec  1006 KBytes  82.4 Mbits/sec                  
+
+
+============2021-01-22 23:27:42===========
+
+[  5]   3.80-3.90   sec  1.15 MBytes  96.2 Mbits/sec                  
+[  5]   3.90-4.00   sec  1.16 MBytes  97.3 Mbits/sec                  
+[  5]   4.00-4.10   sec  1.29 MBytes   108 Mbits/sec                  
+[  5]   4.10-4.20   sec  1.17 MBytes  98.3 Mbits/sec                  
+[  5]   4.20-4.30   sec   893 KBytes  73.1 Mbits/sec                  
+[  5]   4.30-4.40   sec   778 KBytes  63.7 Mbits/sec                  
+[  5]   4.40-4.50   sec  1.18 MBytes  98.7 Mbits/sec                  
+[  5]   4.50-4.60   sec  1.35 MBytes   113 Mbits/sec                  
+[  5]   4.60-4.70   sec  1.13 MBytes  94.7 Mbits/sec                  
+[  5]   4.70-4.75   sec   464 KBytes  69.8 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  5]   0.00-4.75   sec  51.2 MBytes  90.4 Mbits/sec   80             sender
+[  5]   0.00-4.75   sec  50.1 MBytes  88.4 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 10.10.1.4, port 25000
+Reverse mode, remote host 10.10.1.4 is sending
+[  5] local 172.16.62.12 port 56022 connected to 10.10.1.4 port 25000
+[ ID] Interval           Transfer     Bandwidth
+[  5]   0.00-0.10   sec   104 KBytes  8.49 Mbits/sec                  
+[  5]   0.10-0.20   sec   669 KBytes  54.8 Mbits/sec                  
+[  5]   0.20-0.30   sec  1.62 MBytes   136 Mbits/sec                  
+[  5]   0.30-0.40   sec  1.40 MBytes   118 Mbits/sec                  
+[  5]   0.40-0.50   sec  1.11 MBytes  92.7 Mbits/sec                  
+[  5]   0.50-0.60   sec  1.12 MBytes  93.6 Mbits/sec                  
+[  5]   0.60-0.70   sec  1.65 MBytes   139 Mbits/sec                  
+[  5]   0.70-0.80   sec  1.15 MBytes  96.3 Mbits/sec                  
+[  5]   0.80-0.90   sec  1.03 MBytes  86.8 Mbits/sec                  
+[  5]   0.90-1.00   sec  1.29 MBytes   108 Mbits/sec                  
+[  5]   1.00-1.10   sec  1004 KBytes  82.2 Mbits/sec                  
+[  5]   1.10-1.20   sec  1.25 MBytes   105 Mbits/sec                  
+[  5]   1.20-1.30   sec  1.12 MBytes  93.9 Mbits/sec                  
+[  5]   1.30-1.40   sec  1.27 MBytes   106 Mbits/sec                  
+[  5]   1.40-1.50   sec  1.25 MBytes   105 Mbits/sec                  
+[  5]   1.50-1.60   sec  1.07 MBytes  89.3 Mbits/sec                  
+[  5]   1.60-1.70   sec  1.41 MBytes   118 Mbits/sec                  
+[  5]   1.70-1.80   sec  1.02 MBytes  85.6 Mbits/sec                  
+[  5]   1.80-1.90   sec  1.11 MBytes  92.9 Mbits/sec                  
+[  5]   1.90-2.00   sec  1.24 MBytes   104 Mbits/sec                  
+[  5]   2.00-2.10   sec  1.09 MBytes  91.4 Mbits/sec                  
+[  5]   2.10-2.20   sec  1.25 MBytes   105 Mbits/sec                  
+[  5]   2.20-2.30   sec  1.29 MBytes   108 Mbits/sec                  
+[  5]   2.30-2.40   sec  1.09 MBytes  91.1 Mbits/sec                  
+[  5]   2.40-2.50   sec  1.28 MBytes   107 Mbits/sec                  
+[  5]   2.50-2.60   sec  1.10 MBytes  91.9 Mbits/sec                  
+[  5]   2.60-2.70   sec  1.25 MBytes   105 Mbits/sec                  
+[  5]   2.70-2.80   sec  1.25 MBytes   105 Mbits/sec                  
+[  5]   2.80-2.90   sec  1.12 MBytes  94.4 Mbits/sec                  
+[  5]   2.90-3.00   sec  1.12 MBytes  94.4 Mbits/sec                  
+[  5]   3.00-3.10   sec  1.26 MBytes   106 Mbits/sec                  
+[  5]   3.10-3.20   sec  1.15 MBytes  96.8 Mbits/sec                  
+[  5]   3.20-3.30   sec  1.21 MBytes   101 Mbits/sec                  
+[  5]   3.30-3.40   sec  1.25 MBytes   105 Mbits/sec                  
+[  5]   3.40-3.50   sec  1.12 MBytes  94.3 Mbits/sec                  
+[  5]   3.50-3.60   sec  1.26 MBytes   106 Mbits/sec                  
+[  5]   3.60-3.70   sec  1.12 MBytes  93.6 Mbits/sec                  
+[  5]   3.70-3.80   sec  1.25 MBytes   105 Mbits/sec                  
+[  5]   3.80-3.90   sec  1.12 MBytes  94.4 Mbits/sec                  
+[  5]   3.90-4.00   sec  1.25 MBytes   105 Mbits/sec                  
+[  5]   4.00-4.10   sec  1.26 MBytes   106 Mbits/sec                  
+[  5]   4.10-4.20   sec  1.11 MBytes  93.2 Mbits/sec                  
+[  5]   4.20-4.22   sec   976 KBytes   370 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  5]   0.00-4.22   sec  50.3 MBytes  99.9 Mbits/sec   28             sender
+[  5]   0.00-4.22   sec  50.3 MBytes  99.8 Mbits/sec                  receiver
+
+iperf Done.
+
+
+============2021-01-22 23:27:52===========
+
+
+
+============2021-01-22 23:28:02===========
+
+
+
+============2021-01-22 23:28:12===========
+
+
+
+============2021-01-22 23:28:22===========
+
+
+
+============2021-01-22 23:28:32===========
+
+
+
+============2021-01-22 23:28:42===========
+
+
+
+============2021-01-22 23:28:52===========
+
+
+
+============2021-01-22 23:29:02===========
+
+
+
+============2021-01-22 23:29:12===========
+
+
+
+============2021-01-22 23:29:22===========
+
+
+
+============2021-01-22 23:29:32===========
+
+
+
+============2021-01-22 23:29:42===========
+

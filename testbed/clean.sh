@@ -1,0 +1,1 @@
+rm -rf bd_hack_analysis fct_common_analysis fct_hack_analysis fct_offline_analysis

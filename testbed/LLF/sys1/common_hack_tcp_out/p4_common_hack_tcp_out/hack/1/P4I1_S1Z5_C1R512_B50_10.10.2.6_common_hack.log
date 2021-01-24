@@ -1,0 +1,43 @@
+
+
+============2021-01-22 12:44:46 20s max hack attack===========
+
+Connecting to host 10.10.2.6, port 25005
+[  4] local 172.16.62.236 port 39172 connected to 10.10.2.6 port 25005
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-1.00   sec  7.91 MBytes  66.3 Mbits/sec    1    141 KBytes       
+[  4]   1.00-2.00   sec  7.88 MBytes  66.1 Mbits/sec    2   96.9 KBytes       
+[  4]   2.00-3.00   sec  7.88 MBytes  66.1 Mbits/sec    0    139 KBytes       
+[  4]   3.00-4.00   sec  8.12 MBytes  68.2 Mbits/sec    3   77.8 KBytes       
+[  4]   4.00-5.00   sec  7.75 MBytes  65.0 Mbits/sec    0    126 KBytes       
+[  4]   5.00-6.00   sec  8.00 MBytes  67.1 Mbits/sec    2    117 KBytes       
+[  4]   6.00-7.00   sec  7.88 MBytes  66.1 Mbits/sec    5    126 KBytes       
+[  4]   7.00-8.00   sec  7.88 MBytes  66.1 Mbits/sec    1    117 KBytes       
+[  4]   8.00-9.00   sec  7.88 MBytes  66.1 Mbits/sec    0    156 KBytes       
+[  4]   9.00-10.00  sec  7.75 MBytes  65.0 Mbits/sec    5   92.8 KBytes       
+[  4]  10.00-11.00  sec  7.75 MBytes  65.0 Mbits/sec    0    138 KBytes       
+[  4]  11.00-12.00  sec  8.00 MBytes  67.1 Mbits/sec    3   79.2 KBytes       
+[  4]  12.00-13.00  sec  7.88 MBytes  66.1 Mbits/sec    0    130 KBytes       
+[  4]  13.00-14.00  sec  7.75 MBytes  65.0 Mbits/sec    1    123 KBytes       
+[  4]  14.00-15.00  sec  7.75 MBytes  65.0 Mbits/sec    1    112 KBytes       
+[  4]  15.00-16.00  sec  7.75 MBytes  65.0 Mbits/sec    8   77.8 KBytes       
+[  4]  16.00-17.00  sec  7.88 MBytes  66.1 Mbits/sec    0    124 KBytes       
+[  4]  17.00-18.00  sec  7.88 MBytes  66.1 Mbits/sec    7   92.8 KBytes       
+[  4]  18.00-19.00  sec  7.88 MBytes  66.1 Mbits/sec    0    138 KBytes       
+[  4]  19.00-20.00  sec  7.88 MBytes  66.1 Mbits/sec    1    134 KBytes       
+[  4]  20.00-21.00  sec  7.88 MBytes  66.1 Mbits/sec    2    124 KBytes       
+[  4]  21.00-22.00  sec  7.75 MBytes  65.0 Mbits/sec    1    124 KBytes       
+[  4]  22.00-23.00  sec  7.88 MBytes  66.1 Mbits/sec    3    131 KBytes       
+[  4]  23.00-24.00  sec  7.88 MBytes  66.1 Mbits/sec    6    128 KBytes       
+[  4]  24.00-25.00  sec  7.88 MBytes  66.1 Mbits/sec    1    116 KBytes       
+[  4]  25.00-26.00  sec  7.88 MBytes  66.1 Mbits/sec    2    127 KBytes       
+[  4]  26.00-27.00  sec  7.75 MBytes  65.0 Mbits/sec    1    120 KBytes       
+[  4]  27.00-28.00  sec  8.00 MBytes  67.1 Mbits/sec    1    109 KBytes       
+[  4]  28.00-29.00  sec  7.75 MBytes  65.0 Mbits/sec    0    149 KBytes       
+[  4]  29.00-30.00  sec  7.88 MBytes  66.1 Mbits/sec    9   94.2 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-30.00  sec   236 MBytes  65.9 Mbits/sec   66             sender
+[  4]   0.00-30.00  sec   235 MBytes  65.7 Mbits/sec                  receiver
+
+iperf Done.

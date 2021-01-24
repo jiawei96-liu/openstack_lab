@@ -1,0 +1,33 @@
+
+
+============2021-01-22 15:27:26 20s max hack attack===========
+
+Connecting to host 10.10.0.57, port 25005
+[  4] local 172.16.62.237 port 44986 connected to 10.10.0.57 port 25005
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-1.00   sec  10.7 MBytes  90.0 Mbits/sec    1    188 KBytes       
+[  4]   1.00-2.00   sec  10.2 MBytes  86.0 Mbits/sec    1    156 KBytes       
+[  4]   2.00-3.00   sec  10.2 MBytes  86.0 Mbits/sec    0    191 KBytes       
+[  4]   3.00-4.00   sec  10.5 MBytes  88.1 Mbits/sec    1    158 KBytes       
+[  4]   4.00-5.00   sec  10.2 MBytes  86.0 Mbits/sec    0    192 KBytes       
+[  4]   5.00-6.00   sec  10.4 MBytes  87.0 Mbits/sec    1    160 KBytes       
+[  4]   6.00-7.00   sec  10.2 MBytes  86.0 Mbits/sec    0    194 KBytes       
+[  4]   7.00-8.00   sec  10.4 MBytes  87.0 Mbits/sec    1    161 KBytes       
+[  4]   8.00-9.00   sec  10.2 MBytes  86.0 Mbits/sec    0    197 KBytes       
+[  4]   9.00-10.00  sec  10.5 MBytes  88.1 Mbits/sec    1    167 KBytes       
+[  4]  10.00-11.00  sec  10.2 MBytes  86.0 Mbits/sec    0    198 KBytes       
+[  4]  11.00-12.00  sec  10.4 MBytes  87.0 Mbits/sec    1    171 KBytes       
+[  4]  12.00-13.00  sec  10.1 MBytes  84.9 Mbits/sec    0    203 KBytes       
+[  4]  13.00-14.00  sec  10.4 MBytes  87.0 Mbits/sec    1    169 KBytes       
+[  4]  14.00-15.00  sec  10.4 MBytes  87.0 Mbits/sec    6    112 KBytes       
+[  4]  15.00-16.00  sec  10.2 MBytes  86.0 Mbits/sec    2    134 KBytes       
+[  4]  16.00-17.00  sec  10.4 MBytes  87.0 Mbits/sec    3    127 KBytes       
+[  4]  17.00-18.00  sec  10.2 MBytes  86.0 Mbits/sec    0    169 KBytes       
+[  4]  18.00-19.00  sec  10.4 MBytes  87.0 Mbits/sec    0    201 KBytes       
+[  4]  19.00-20.00  sec  10.2 MBytes  86.0 Mbits/sec    1    167 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-20.00  sec   207 MBytes  86.7 Mbits/sec   20             sender
+[  4]   0.00-20.00  sec   206 MBytes  86.3 Mbits/sec                  receiver
+
+iperf Done.

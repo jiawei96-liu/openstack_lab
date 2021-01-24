@@ -1,0 +1,93 @@
+PING 10.10.0.8 (10.10.0.8) 56(84) bytes of data.
+64 bytes from 10.10.0.8: icmp_seq=1 ttl=63 time=3.25 ms
+
+
+============2021-01-21 21:03:38===========
+
+64 bytes from 10.10.0.8: icmp_seq=2 ttl=63 time=4.62 ms
+64 bytes from 10.10.0.8: icmp_seq=3 ttl=63 time=3.97 ms
+64 bytes from 10.10.0.8: icmp_seq=4 ttl=63 time=3.73 ms
+64 bytes from 10.10.0.8: icmp_seq=5 ttl=63 time=3.65 ms
+64 bytes from 10.10.0.8: icmp_seq=6 ttl=63 time=3.11 ms
+64 bytes from 10.10.0.8: icmp_seq=7 ttl=63 time=2.62 ms
+64 bytes from 10.10.0.8: icmp_seq=8 ttl=63 time=2.14 ms
+64 bytes from 10.10.0.8: icmp_seq=9 ttl=63 time=3.01 ms
+64 bytes from 10.10.0.8: icmp_seq=10 ttl=63 time=1.54 ms
+64 bytes from 10.10.0.8: icmp_seq=11 ttl=63 time=3.78 ms
+
+
+============2021-01-21 21:03:48===========
+
+64 bytes from 10.10.0.8: icmp_seq=12 ttl=63 time=3.57 ms
+64 bytes from 10.10.0.8: icmp_seq=13 ttl=63 time=2.11 ms
+64 bytes from 10.10.0.8: icmp_seq=14 ttl=63 time=2.90 ms
+64 bytes from 10.10.0.8: icmp_seq=15 ttl=63 time=2.73 ms
+64 bytes from 10.10.0.8: icmp_seq=16 ttl=63 time=1.55 ms
+64 bytes from 10.10.0.8: icmp_seq=17 ttl=63 time=1.92 ms
+64 bytes from 10.10.0.8: icmp_seq=18 ttl=63 time=1.26 ms
+64 bytes from 10.10.0.8: icmp_seq=19 ttl=63 time=1.43 ms
+64 bytes from 10.10.0.8: icmp_seq=20 ttl=63 time=1.66 ms
+64 bytes from 10.10.0.8: icmp_seq=21 ttl=63 time=2.20 ms
+
+
+============2021-01-21 21:03:58===========
+
+64 bytes from 10.10.0.8: icmp_seq=22 ttl=63 time=2.33 ms
+64 bytes from 10.10.0.8: icmp_seq=23 ttl=63 time=1.98 ms
+64 bytes from 10.10.0.8: icmp_seq=24 ttl=63 time=2.15 ms
+64 bytes from 10.10.0.8: icmp_seq=25 ttl=63 time=1.32 ms
+64 bytes from 10.10.0.8: icmp_seq=26 ttl=63 time=1.52 ms
+64 bytes from 10.10.0.8: icmp_seq=27 ttl=63 time=1.84 ms
+64 bytes from 10.10.0.8: icmp_seq=28 ttl=63 time=1.37 ms
+64 bytes from 10.10.0.8: icmp_seq=29 ttl=63 time=1.92 ms
+64 bytes from 10.10.0.8: icmp_seq=30 ttl=63 time=2.16 ms
+64 bytes from 10.10.0.8: icmp_seq=31 ttl=63 time=1.50 ms
+
+
+============2021-01-21 21:04:08===========
+
+64 bytes from 10.10.0.8: icmp_seq=32 ttl=63 time=2.07 ms
+64 bytes from 10.10.0.8: icmp_seq=33 ttl=63 time=1.57 ms
+64 bytes from 10.10.0.8: icmp_seq=34 ttl=63 time=1.40 ms
+64 bytes from 10.10.0.8: icmp_seq=35 ttl=63 time=1.48 ms
+64 bytes from 10.10.0.8: icmp_seq=36 ttl=63 time=1.60 ms
+64 bytes from 10.10.0.8: icmp_seq=37 ttl=63 time=2.02 ms
+64 bytes from 10.10.0.8: icmp_seq=38 ttl=63 time=1.55 ms
+64 bytes from 10.10.0.8: icmp_seq=39 ttl=63 time=1.35 ms
+64 bytes from 10.10.0.8: icmp_seq=40 ttl=63 time=1.45 ms
+64 bytes from 10.10.0.8: icmp_seq=41 ttl=63 time=1.41 ms
+
+
+============2021-01-21 21:04:18===========
+
+64 bytes from 10.10.0.8: icmp_seq=42 ttl=63 time=2.17 ms
+64 bytes from 10.10.0.8: icmp_seq=43 ttl=63 time=1.28 ms
+64 bytes from 10.10.0.8: icmp_seq=44 ttl=63 time=3.25 ms
+64 bytes from 10.10.0.8: icmp_seq=45 ttl=63 time=3.26 ms
+64 bytes from 10.10.0.8: icmp_seq=46 ttl=63 time=4.24 ms
+64 bytes from 10.10.0.8: icmp_seq=47 ttl=63 time=5.60 ms
+64 bytes from 10.10.0.8: icmp_seq=48 ttl=63 time=4.81 ms
+64 bytes from 10.10.0.8: icmp_seq=49 ttl=63 time=4.46 ms
+64 bytes from 10.10.0.8: icmp_seq=50 ttl=63 time=4.47 ms
+64 bytes from 10.10.0.8: icmp_seq=51 ttl=63 time=3.94 ms
+
+
+============2021-01-21 21:04:28===========
+
+64 bytes from 10.10.0.8: icmp_seq=52 ttl=63 time=4.67 ms
+64 bytes from 10.10.0.8: icmp_seq=53 ttl=63 time=3.62 ms
+64 bytes from 10.10.0.8: icmp_seq=54 ttl=63 time=3.75 ms
+64 bytes from 10.10.0.8: icmp_seq=55 ttl=63 time=3.39 ms
+64 bytes from 10.10.0.8: icmp_seq=56 ttl=63 time=3.73 ms
+64 bytes from 10.10.0.8: icmp_seq=57 ttl=63 time=3.70 ms
+64 bytes from 10.10.0.8: icmp_seq=58 ttl=63 time=4.04 ms
+64 bytes from 10.10.0.8: icmp_seq=59 ttl=63 time=4.67 ms
+64 bytes from 10.10.0.8: icmp_seq=60 ttl=63 time=4.95 ms
+
+--- 10.10.0.8 ping statistics ---
+60 packets transmitted, 60 received, 0% packet loss, time 59074ms
+rtt min/avg/max/mdev = 1.263/2.750/5.606/1.195 ms
+
+
+============2021-01-21 21:04:38===========
+

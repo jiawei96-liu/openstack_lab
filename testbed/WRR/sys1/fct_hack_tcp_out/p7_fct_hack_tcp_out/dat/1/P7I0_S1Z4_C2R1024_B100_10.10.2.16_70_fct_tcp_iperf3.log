@@ -1,0 +1,145 @@
+
+
+============2021-01-23 16:48:47===========
+
+Connecting to host 10.10.2.16, port 25004
+Reverse mode, remote host 10.10.2.16 is sending
+[  5] local 172.16.62.236 port 36358 connected to 10.10.2.16 port 25004
+[ ID] Interval           Transfer     Bandwidth
+[  5]   0.00-0.30   sec  2.09 MBytes  57.6 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  5]   0.00-0.30   sec  2.54 MBytes  70.0 Mbits/sec    6             sender
+[  5]   0.00-0.30   sec  2.22 MBytes  61.0 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 10.10.2.16, port 25000
+Reverse mode, remote host 10.10.2.16 is sending
+[  5] local 172.16.62.236 port 45798 connected to 10.10.2.16 port 25000
+[ ID] Interval           Transfer     Bandwidth
+[  5]   0.00-0.30   sec  2.00 MBytes  55.6 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  5]   0.00-0.30   sec  2.56 MBytes  71.0 Mbits/sec    0             sender
+[  5]   0.00-0.30   sec  2.13 MBytes  59.0 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 10.10.2.16, port 25001
+Reverse mode, remote host 10.10.2.16 is sending
+[  5] local 172.16.62.236 port 60858 connected to 10.10.2.16 port 25001
+[ ID] Interval           Transfer     Bandwidth
+[  5]   0.00-0.30   sec  2.00 MBytes  55.4 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  5]   0.00-0.30   sec  2.60 MBytes  72.1 Mbits/sec    0             sender
+[  5]   0.00-0.30   sec  2.25 MBytes  62.4 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 10.10.2.16, port 25002
+Reverse mode, remote host 10.10.2.16 is sending
+[  5] local 172.16.62.236 port 51792 connected to 10.10.2.16 port 25002
+[ ID] Interval           Transfer     Bandwidth
+[  5]   0.00-0.30   sec  2.00 MBytes  55.6 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  5]   0.00-0.30   sec  2.56 MBytes  70.9 Mbits/sec    0             sender
+[  5]   0.00-0.30   sec  2.13 MBytes  59.0 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 10.10.2.16, port 25003
+Reverse mode, remote host 10.10.2.16 is sending
+[  5] local 172.16.62.236 port 50486 connected to 10.10.2.16 port 25003
+[ ID] Interval           Transfer     Bandwidth
+[  5]   0.00-1.00   sec  7.85 MBytes  65.8 Mbits/sec                  
+[  5]   1.00-2.00   sec  8.20 MBytes  68.8 Mbits/sec                  
+[  5]   2.00-3.00   sec  8.43 MBytes  70.7 Mbits/sec                  
+[  5]   3.00-4.00   sec  8.24 MBytes  69.1 Mbits/sec                  
+[  5]   4.00-5.00   sec  8.35 MBytes  70.0 Mbits/sec                  
+[  5]   5.00-6.00   sec  8.41 MBytes  70.6 Mbits/sec                  
+[  5]   6.00-6.01   sec   534 KBytes   874 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  5]   0.00-6.01   sec  50.2 MBytes  70.1 Mbits/sec   41             sender
+[  5]   0.00-6.01   sec  50.2 MBytes  70.1 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 10.10.2.16, port 25004
+Reverse mode, remote host 10.10.2.16 is sending
+[  5] local 172.16.62.236 port 36534 connected to 10.10.2.16 port 25004
+[ ID] Interval           Transfer     Bandwidth
+[  5]   0.00-1.00   sec  7.55 MBytes  63.4 Mbits/sec                  
+[  5]   1.00-2.00   sec  8.38 MBytes  70.3 Mbits/sec                  
+
+
+============2021-01-23 16:48:57===========
+
+[  5]   2.00-3.00   sec  8.38 MBytes  70.3 Mbits/sec                  
+[  5]   3.00-4.00   sec  8.25 MBytes  69.2 Mbits/sec                  
+[  5]   4.00-5.00   sec  8.38 MBytes  70.3 Mbits/sec                  
+[  5]   5.00-6.00   sec  8.38 MBytes  70.3 Mbits/sec                  
+[  5]   6.00-6.01   sec   714 KBytes   664 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  5]   0.00-6.01   sec  50.2 MBytes  70.1 Mbits/sec   15             sender
+[  5]   0.00-6.01   sec  50.2 MBytes  70.1 Mbits/sec                  receiver
+
+iperf Done.
+Connecting to host 10.10.2.16, port 25000
+Reverse mode, remote host 10.10.2.16 is sending
+[  5] local 172.16.62.236 port 46028 connected to 10.10.2.16 port 25000
+[ ID] Interval           Transfer     Bandwidth
+[  5]   0.00-0.30   sec  2.00 MBytes  55.2 Mbits/sec                  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  5]   0.00-0.30   sec  2.55 MBytes  70.3 Mbits/sec    0             sender
+[  5]   0.00-0.30   sec  2.13 MBytes  58.7 Mbits/sec                  receiver
+
+iperf Done.
+
+
+============2021-01-23 16:49:07===========
+
+
+
+============2021-01-23 16:49:17===========
+
+
+
+============2021-01-23 16:49:27===========
+
+
+
+============2021-01-23 16:49:37===========
+
+
+
+============2021-01-23 16:49:47===========
+
+
+
+============2021-01-23 16:49:57===========
+
+
+
+============2021-01-23 16:50:08===========
+
+
+
+============2021-01-23 16:50:18===========
+
+
+
+============2021-01-23 16:50:28===========
+
+
+
+============2021-01-23 16:50:38===========
+
+
+
+============2021-01-23 16:50:48===========
+
+
+
+============2021-01-23 16:50:58===========
+
